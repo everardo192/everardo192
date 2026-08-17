@@ -57,7 +57,7 @@ Profesional enfocado en el desarrollo de software, con sólida experiencia en el
 | :--- | :--- | :--- |
 | **Sistema de Gestión de Productos (CRUD)** | Aplicación Full-Stack estructurada y desarrollada utilizando Node.js, PostgreSQL y Angular para la administración eficiente de inventarios. | - |
 | **Generador Automático de CV** | Aplicación web enfocada en agilizar y automatizar la creación de currículums vitae mediante una interfaz intuitiva. | - |
-| **Sistema Gestor de Multas** | Modelado de BD, lógica de negocio en Backend, interfaz Frontend y control de accesos con roles y JWT. | [Backend](https://github.com/DS-pcnet/SGM-BackEnd/tree/release) / [Frontend](https://github.com/DS-pcnet/SGM-FrontEnd/tree/release) |
+| **Sistema Gestor de Multas** | Modelado de BD, lógica de negocio en Backend, interfaz Frontend y control de accesos con roles y JWT. | [ Ver Backend](https://github.com/DS-pcnet/SGM-BackEnd/tree/release) / [ Ver Frontend](https://github.com/DS-pcnet/SGM-FrontEnd/tree/release) |
 
 ---
 
