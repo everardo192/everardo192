@@ -1,4 +1,4 @@
-# 👨‍💻 Everardo Guadalupe Torres Tovar
+# Everardo Guadalupe Torres Tovar
 > **Ingeniero en Desarrollo y Gestión de Software | Desarrollador Full-Stack**
 > 📍 Dolores Hidalgo, Guanajuato | ✉️ everardot915@gmail.com
 
@@ -6,7 +6,7 @@ Profesional enfocado en el desarrollo de software, con sólida experiencia en el
 
 ---
 
-### 🛠️ Ecosistema Tecnológico
+### Ecosistema Tecnológico
 
 **Frontend**<br>
 <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,rails&theme=light" alt="React, Angular, Vue.js, Next.js, Ruby on Rails">
@@ -19,7 +19,7 @@ Profesional enfocado en el desarrollo de software, con sólida experiencia en el
 
 ---
 
-### 💼 Trayectoria Profesional
+### Trayectoria Profesional
 
 <details>
 <summary><b>Desarrollador Full Stack | PCNET / Estadías</b> <i>(Enero 2026 - Abril 2026)</i></summary>
@@ -51,17 +51,17 @@ Profesional enfocado en el desarrollo de software, con sólida experiencia en el
 
 ---
 
-### 🚀 Portafolio de Proyectos
+### Portafolio de Proyectos
 
-| Proyecto | Descripción | Enlaces |
-| :--- | :--- | :--- |
-| **Sistema de Gestión de Productos (CRUD)** | Aplicación Full-Stack estructurada y desarrollada utilizando Node.js, PostgreSQL y Angular para la administración eficiente de inventarios. | - |
-| **Generador Automático de CV** | Aplicación web enfocada en agilizar y automatizar la creación de currículums vitae mediante una interfaz intuitiva. | - |
-| **Sistema Gestor de Multas** | Modelado de BD, lógica de negocio en Backend, interfaz Frontend y control de accesos con roles y JWT. | [ Ver Backend](https://github.com/DS-pcnet/SGM-BackEnd/tree/release) / [ Ver Frontend](https://github.com/DS-pcnet/SGM-FrontEnd/tree/release) |
+| Proyecto | Descripción | Tecnologías | Enlaces |
+| :--- | :--- | :--- | :--- |
+| **Sistema de Gestión de Productos (CRUD)** | Aplicación Full-Stack estructurada y desarrollada para la administración eficiente de inventarios. | Node.js, PostgreSQL, Angular | - |
+| **Generador Automático de CV** | Aplicación web enfocada en agilizar y automatizar la creación de currículums vitae mediante una interfaz intuitiva. | JavaScript (DOM), HTML, CSS | - |
+| **Sistema Gestor de Multas** | Modelado de BD, lógica de negocio, diseño de interfaz y control de accesos mediante roles. | React, Node.js, Express, PostgreSQL, JWT | [ Ver Backend](https://github.com/DS-pcnet/SGM-BackEnd/tree/release) / [ Ver Frontend](https://github.com/DS-pcnet/SGM-FrontEnd/tree/release) |
 
 ---
 
-### 🎓 Formación Académica
+### Formación Académica
 
 *   **Ingeniería en Desarrollo y Gestión de Software** | UTNG *(2024 - 2026)*
 *   **TSU en Desarrollo de Software Multiplataforma** | UTNG *(2022 - 2024)*
